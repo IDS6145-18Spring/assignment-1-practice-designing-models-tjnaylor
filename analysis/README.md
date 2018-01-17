@@ -15,6 +15,7 @@ The Smart Meter will collect data on the following items:
 
 
 ![**Diagram**](images/Model.png)
+![**Diagram**](images/Behaviordiagram.png)
 
 
 
