@@ -27,14 +27,14 @@ My hypothesis is that cities can increase efficiency and reduce its carbon footp
 4.	Power itself through solar.
 5.	Metal frame to endure wear and tear.
 
-
 ## Smart City (My Problem) Model
 
-
-![**Object Diagram**](assignment-1-practice-designing-models-tjnaylor/images/Objectdiagram1.png)
-![**Class Diagram**](assignment-1-practice-designing-models-tjnaylor/images/classdiagram.png)
-![**Behavior Diagram**](assignment-1-practice-designing-models-tjnaylor/images/Behaviordiagram.png)
-
+#Object Diagram
+ ![**Object Diagram**](images/Objectdiagram1.png)
+#Class Diagram
+*![**Class Diagram**](images/classdiagram.png)
+# Behavior Diagram
+*![**Behavior Diagram**](images/Behaviordiagram.png)
 
 ## Smart City (My Problem) Simulation
 
