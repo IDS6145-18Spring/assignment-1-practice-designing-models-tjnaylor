@@ -1,29 +1,39 @@
 # Assignment1 - Practice Designing Models (Template)
-(remove: **text between brackets to be removed**)
 
-> * Participant name: tj naylor
-> * Project Title: (Title of the problem you are looking and modeling)
+
+> * Participant name: TJ Naylor
+> * Project Title: Smart Meter
 
 ## General Introduction
 
-A **smart city** is an urban area that uses different types of electronic data collection sensors to supply information which is used to manage assets and resources efficiently.
+Properly defined a **Smart City** is a city that uses different types of electronic data collection sensors to supply information to manage assets and resources efficiently (Hamblen, 2015). For this assignment, a **Smart City** incorporates the following requirements: 
+
+1.	Improve/Enhance communities with electronic and digital technologies
+2.	Use Information and Communication Technology (ICT) to transform life and working 	 environments
+3.	Leverages ICT technology for government systems (Deakin, 2013, p.15).
+
 
 ![Image of Smart City](images/smartcity.png)
 
-(remove: States your motivation clearly: why is it important / interesting to solve this problem?)
-(remove: Add real-world examples, if any)
-(remove: Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+Many large cities such as Orlando experience heavy traffic during peak working hours and during major events. As a result, parking is often very difficult to find and often requires significant time to find an available parking space. Additionally, sometimes you find a parking and subsequently find out the meter is broken. If a city is equipped with **Smart Meters**, you can find available parking when you arrive in the area. Moreover, you can pay the meter with your smartphone without the hassle of using coins.
 
 ## Requirements (Experimental Design)
 
-(remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
+My hypothesis is that cities can increase efficiency and reduce its carbon footprint by incorporating **Smart Meters**. They alleviate the hassle of drivers searching around the city looking for parking because the smart meter sensor communicates with an application and signals when it is vacant or occupied. It also identifies when a meter requires maintenance. It reduces the government work force because it takes less coins and thus requires fewer people to check the meter to collect the coins. If a city wants to be ambitious it could include charging stations for vehicles. The “smart meter” requirements are included below.
+
+1.	Equipped with sensor to signal occupancy of the meter through an app and provide analytics to the city government.
+2.	Provide at least three different payment options (coins, credit, mobile pay).
+3.	Use digital interface to communicate applicable data.
+4.	Power itself through solar.
+5.	Metal frame to endure wear and tear.
+
 
 ## Smart City (My Problem) Model
 
-(remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
-(remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
 
-* [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
+(remove: Look at the [**Object Diagram**](images/Objectdiagram1.png) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
+
+* [**Object Diagram**](images/Objectdiagram1.png) - provides the high level overview of components
 * [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
 * [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
