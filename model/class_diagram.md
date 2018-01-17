@@ -1,1 +1,1 @@
-![Image of class diagram](assignment-1-practice-designing-models-tjnaylor/images/classdiagram.png)
+![Image of class diagram](images/classdiagram.png)
