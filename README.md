@@ -31,11 +31,9 @@ My hypothesis is that cities can increase efficiency and reduce its carbon footp
 ## Smart City (My Problem) Model
 
 
-(remove: Look at the [**Object Diagram**](images/Objectdiagram1.png) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
-
-* [**Object Diagram**](images/Objectdiagram1.png)
-* [**Class Diagram**](assignment-1-practice-designing-models-tjnaylor/model/class_diagram.md)
-* [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
+* [**Object Diagram**](assignment-1-practice-designing-models-tjnaylor/images/Objectdiagram1.png)
+* [**Class Diagram**](assignment-1-practice-designing-models-tjnaylor/images/classdiagram.png)
+* [**Behavior Diagram**](assignment-1-practice-designing-models-tjnaylor/images/Behaviordiagram.png)
 
 
 ## Smart City (My Problem) Simulation
