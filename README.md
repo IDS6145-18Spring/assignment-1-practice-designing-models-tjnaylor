@@ -21,7 +21,7 @@ Many large cities such as Orlando experience heavy traffic during peak working h
 
 My hypothesis is that cities can increase efficiency and reduce its carbon footprint by incorporating **Smart Meters**. They alleviate the hassle of drivers searching around the city looking for parking because the smart meter sensor communicates with an application and signals when it is vacant or occupied. It also identifies when a meter requires maintenance. It reduces the government work force because it takes less coins and thus requires fewer people to check the meter to collect the coins. If a city wants to be ambitious it could include charging stations for vehicles. The “smart meter” requirements are included below.
 
-1.	Equipped with sensor to signal occupancy of the meter through an app and provide analytics to the city government.
+1.	Equipped with sensor to signal occupancy of the meter through an app and provide analytics to the city	    	 	 government.
 2.	Provide at least three different payment options (coins, credit, mobile pay).
 3.	Use digital interface to communicate applicable data.
 4.	Power itself through solar.
@@ -33,10 +33,10 @@ My hypothesis is that cities can increase efficiency and reduce its carbon footp
 
 (remove: Look at the [**Object Diagram**](images/Objectdiagram1.png) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
 
-* [**Object Diagram**](images/Objectdiagram1.png) - provides the high level overview of components
-* [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
+* [**Object Diagram**](images/Objectdiagram1.png)
+* [**Class Diagram**](assignment-1-practice-designing-models-tjnaylor/model/class_diagram.md)
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
-* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
+
 
 ## Smart City (My Problem) Simulation
 
