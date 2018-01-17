@@ -13,9 +13,7 @@ The Smart Meter will collect data on the following items:
 3.	Charging status
 4.	Payment method usage
 
-
-![**Diagram**](images/Model.png)
-![**Diagram**](images/Behaviordiagram.png)
+![**Diagram**](analysis/Behaviordiagram.png)
 
 
 
