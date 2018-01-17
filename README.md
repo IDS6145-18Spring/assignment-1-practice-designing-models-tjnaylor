@@ -38,7 +38,8 @@ My hypothesis is that cities can increase efficiency and reduce its carbon footp
 
 ## Smart City (My Problem) Simulation
 
-(remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
+An agent based simulation is the best choice to simulate the Smart Meter because it requires a human/agent to interact with it. I would use an agent based simulation to simulate the Smart Meter. Specifically, Anylogic is a great tool to simulate the activity of the smart meter. 
+and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
 
 
 ## Smart City (My Problem) Model
