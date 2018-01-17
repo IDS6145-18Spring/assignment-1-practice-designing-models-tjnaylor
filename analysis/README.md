@@ -14,7 +14,8 @@ The Smart Meter will collect data on the following items:
 4.	Payment method usage
 
 
-![Model](images/Model.png)
+![**Model**](images/Model.png)
+
 
 
 
