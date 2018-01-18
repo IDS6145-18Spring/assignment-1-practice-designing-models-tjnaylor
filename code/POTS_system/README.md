@@ -1,8 +1,10 @@
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 
-The (**POTS**) object diagram depicts converting code to a diagram.
+The (**POTS**) object diagram depicts converting source code to a model diagram.
 
-![POTS system](images/POTS(objectdiagram)
+![POTS system](images/POTSOD.png) 
+
+
 
 
 (Remove: The code does run - you should try it. It does not do much, but has a very basic 
