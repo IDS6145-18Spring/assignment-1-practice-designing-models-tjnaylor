@@ -2,9 +2,8 @@
 
 The (**POTS**) object diagram depicts converting source code to a model diagram.
 
-![**POTS system**](images/POTSOD.png)
-![POTS system](images/POTSOD.png)
-
+ 
+ ![**POTS system**](images/POTSobjectdiagram.png)
 
 
 
