@@ -4,7 +4,7 @@ The (**POTS**) object diagram depicts converting source code to a model diagram.
 
 ![POTS system](images/POTSOD.png) 
 
-
+![POTS system](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tjnaylor/blob/master/images/POTSOD.png)
 
 
 (Remove: The code does run - you should try it. It does not do much, but has a very basic 
