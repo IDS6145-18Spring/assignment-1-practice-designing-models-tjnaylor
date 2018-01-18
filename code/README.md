@@ -2,10 +2,10 @@
 
 The coding framework for the Smart Meter can be found at (insert link). It provides an example of how the Smart Meter communicates with sensors throughout the city to provide accurate and timely information for drivers.
 
-[**Interface**](code/SmartMeterInterface.py)
+![**Interface**](code/SmartMeterInterface.py)
 
-[**Payment System**](code/PaymentSystem.py)
+![**Payment System**](code/PaymentSystem.py)
 
-[**Sensor**](code/Sensor.py)
+![**Sensor**](code/Sensor.py)
 
-[**Power**](code/Power.py)
+![**Power**](code/Power.py)
