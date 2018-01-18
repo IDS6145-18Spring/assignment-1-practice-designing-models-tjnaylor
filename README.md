@@ -47,7 +47,7 @@ An example is included in the [**analysis**](analysis/README.md) file.
 The [**code template**](code/README.md) includes the framework for the Smart Meter. It provides an example of how the Smart Meter communicates with sensors throughout the city to provide accurate and timely information for drivers and alleviate aimless driving throughout the city looking for parking.
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
-The ![**POTS**](images/POTSOD.png) object diagram depicts converting source code to a model diagram.
+The [**POTS**](images/POTSOD.png) object diagram depicts converting source code to a model diagram.
 
 
 
