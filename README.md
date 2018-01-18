@@ -49,6 +49,6 @@ The [**code template**](code/README.md) includes the framework for the Smart Met
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 The (**POTS**) object diagram depicts converting source code to a model diagram.
 
-![POTS system](images/POTS(objectdiagram)
+![**POTS system**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tjnaylor/blob/master/images/POTS(object%20diagram)
 
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
