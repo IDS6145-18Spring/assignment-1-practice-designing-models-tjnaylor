@@ -4,8 +4,8 @@ The coding framework for the Smart Meter is included in the links provided below
 
 [**Interface**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tjnaylor/blob/master/code/SmartMeterInterface.py)
 
-[**Payment System**](code/PaymentSystem.py)
+[**Payment System**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tjnaylor/blob/master/code/PaymentSystem.py)
 
-[**Sensor**](code/Sensor.py)
+[**Sensor**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tjnaylor/blob/master/code/Sensor.py)
 
-[**Power**](code/Power.py)
+[**Power**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tjnaylor/blob/master/code/Power.py)
