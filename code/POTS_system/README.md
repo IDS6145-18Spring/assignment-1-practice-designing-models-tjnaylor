@@ -2,12 +2,12 @@
 
 The (**POTS**) object diagram depicts converting source code to a model diagram.
 
-![POTS system](images/POTSOD.png) 
+![POTS system](images/POTSOD.png)
 
-![POTS system](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tjnaylor/blob/master/images/POTSOD.png)
+![POTS system](images/POTSOD.png)
 
 
-(Remove: The code does run - you should try it. It does not do much, but has a very basic 
+(Remove: The code does run - you should try it. It does not do much, but has a very basic
 simulation loop in it and key press to take a look at.)
 
 (Remove: You kill your plants after a key timesteps, but you could always add nuterients
