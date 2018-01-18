@@ -44,7 +44,7 @@ An example is included in the [**(Analysis)**](analysis/README.md) file.
 
 
 ## Smart City (My Problem) Model
-[**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
+The coding framework for the Smart Meter can be found at ([**Code template**](code/README.md)). It provides an example of how the Smart Meter communicates with sensors throughout the city to provide accurate and timely information for drivers and alleviate aimless driving throughout the city looking for parking.
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
