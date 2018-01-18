@@ -40,7 +40,7 @@ My hypothesis is that cities can increase efficiency and reduce its carbon footp
 
 An agent based simulation is the best choice to simulate the Smart Meter because it requires significant human/agent interaction.  Specifically, Anylogic is a great tool to simulate the activity of the Smart Meter.
 
-An example is included in the [**(Analysis)**](analysis/README.md) file. 
+An example is included in the [**(Analysis)**](analysis/README.md) file.
 
 
 ## Smart City (My Problem) Model
