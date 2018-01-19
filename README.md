@@ -51,5 +51,4 @@ The [**POTS**](images/POTSOD.png) object diagram depicts converting source code 
 
 
 
-
-Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
+Here [**is an example class diagram**](images/POTSCD.png) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) to complete the source code.
