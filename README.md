@@ -1,54 +1,46 @@
-# Assignment1 - Practice Designing Models (Template)
-
+# Assignment 2 - Data Analysis and Visualization (Template)
+(remove: **text between brackets to be removed**)
 
 > * Participant name: TJ Naylor
-> * Project Title: Smart Meter
+> * Project Title: Smart City: Smart Parking Meter
 
 ## General Introduction
+Data analysis and data visualization is key to both the input and output of simulations. This assignment explores different random number generators, distributions, visualizations, and statistics. Additionally, it will look at getting you accustomed to specifying input and output variables to a system. We will also practice working with real data.
 
-Properly defined a **Smart City** is a city that uses different types of electronic data collection sensors to supply information to manage assets and resources efficiently (Hamblen, 2015). For this assignment, a **Smart City** incorporates the following requirements: 
+## Part 1 - Plotting 2D Random Number Generators
 
-1.	Improve/Enhance communities with electronic and digital technologies
-2.	Use Information and Communication Technology (ICT) to transform life and working 	 environments
-3.	Leverages ICT technology for government systems (Deakin, 2013, p.15).
+(Briefly introduce what we are looking at)
+(Add your plots here - 10 different subplots for 2 different generators and 5 Ns. )
+(Talk about how the patterns differ.)
 
+## Part 2 - Plotting 2D Random Number Distributions
 
-![Image of Smart City](images/smartcity.png)
+(Briefly introduce what we are looking at)
+(Add your plots here - 25 different subplots for 5 different generators and 5 Ns. )
+(Talk about how the patterns differ.)
 
-Many large cities such as Orlando experience heavy traffic during peak working hours and during major events. As a result, parking is often very difficult to find and often requires significant time to find an available parking space. Additionally, sometimes you find a parking and subsequently find out the meter is broken. If a city is equipped with **Smart Meters**, you can find available parking when you arrive in the area. Moreover, you can pay the meter with your smartphone without the hassle of using coins.
-
-## Requirements (Experimental Design)
-
-My hypothesis is that cities can increase efficiency and reduce its carbon footprint by incorporating **Smart Meters**. They alleviate the hassle of drivers searching around the city looking for parking because the smart meter sensor communicates with an application and signals when it is vacant or occupied. It also identifies when a meter requires maintenance. It reduces the government work force because it takes less coins and thus requires fewer people to check the meter to collect the coins. If a city wants to be ambitious it could include charging stations for vehicles. The “smart meter” requirements are included below.
-
-1.	Equipped with sensor to signal occupancy of the meter through an app and provide analytics to the city	    	 	 government.
-2.	Provide at least three different payment options (coins, credit, mobile pay).
-3.	Use digital interface to communicate applicable data.
-4.	Power itself through solar.
-5.	Metal frame to endure wear and tear.
-
-## Smart City (My Problem) Model
-
-# [**Object Diagram**](images/Objectdiagram1.png)
- ![**Object Diagram**](images/Objectdiagram1.png)
-# [**Class Diagram**](images/classdiagram.png)
- ![**Class Diagram**](images/classdiagram.png)
-# [**Behavior Diagram**](images/Behaviordiagram.png)
- ![**Behavior Diagram**](images/Behaviordiagram.png)
-
-## Smart City (My Problem) Simulation
-
-An agent based simulation is the best choice to simulate the Smart Meter because it requires significant human/agent interaction.  Specifically, Anylogic is a great tool to simulate the activity of the Smart Meter.
-
-An example is included in the [**analysis**](analysis/README.md) file.
+## Part 3 - Specifying the Inputs to a System
 
 
-## Smart City (My Problem) Model
-The [**code template**](code/README.md) includes the framework for the Smart Meter. It provides an example of how the Smart Meter communicates with sensors throughout the city to provide accurate and timely information for drivers and alleviate aimless driving throughout the city looking for parking.
+(remove the below points, here as reminder what to answer)
+* Briefly remind us what the system was (object diagram, short description)
+* Specify the independent and dependent input variables
+* Specify where the data will come from measured subset of real data (empirical) or synthetic data
+* What kind of statistics are important to capture this input data
+* What are the output variables of your system?
+* What useful statistics will you use to analyze the output?
+* What ways will you visualize your data - charts, and graphs you will create?
+* What clever way will you visualize your output with a useful infographic?
 
-## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
-The [**POTS**](images/POTSOD.png) object diagram depicts converting source code to a model diagram.
+
+## Part 4 - Real Data
+
+(Add your plots and visualization here)
+(Put your data into the data directory)
 
 
-
-Here [**is an example class diagram**](images/POTSCD.png) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) to complete the source code.
+* Write up a paragraph that describes the data and how it fits into your system.
+* Load the data into Python
+* Calculate a few useful statistic on the data - keep it simple- STD, means, etc..., this is just designed * to get used to working with real data. Explain the insights you derive from these statistics.
+* Visualize the raw data - visualize a few critical aspects of the data to better describe what it is, what it is showing, and why its useful to your system.
+* Calculate and plot some summary statistics that better describe the data.
